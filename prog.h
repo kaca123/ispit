@@ -1,0 +1,2 @@
+kolokvijum();
+ispit();
